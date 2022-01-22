@@ -1,4 +1,4 @@
-# Destiny Game
+# ⚡Destiny Game
 In this App, I have built my own adventure game like Bandersnatch, the user can according to his wish choose how the story shall unfold...
 
 # Final View
